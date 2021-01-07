@@ -1,0 +1,7 @@
+pip install virtualenv
+virtualenv "name"
+inside the folder
+pip install django
+ django-admin startproject myproject
+python manage.py runserver
+python manage.py startapp myapp      
